@@ -6,7 +6,7 @@ Stuff and things
 
 * 15 catteries contacted
 * Around 40% responded
-* Only 2 had availaibility 
+* Only 2 had availability 
 
 Action
 ----------------
