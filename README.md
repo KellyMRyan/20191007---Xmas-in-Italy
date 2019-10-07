@@ -8,7 +8,8 @@ Stuff and things
 * Around 40% responded
 * Only 2 had availaibility 
 
-**Action
+Action
+----------------
 
 * Cattery selected
   * Journey time high priority
